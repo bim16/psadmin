@@ -16,7 +16,7 @@ Checkout this repo, install depdencies, then start the gulp process with the fol
 ```
 
 ####Not Familiar with Git?#####
-Click [here](https://github.com/bim16/psadmin/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+Click [here](https://github.com/bim16/psadmin/tree/master) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
 
 ```
 	> npm install
