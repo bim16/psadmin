@@ -12,7 +12,7 @@ Checkout this repo, install depdencies, then start the gulp process with the fol
 	> git clone git@github.com:bim16/psadmin.git
 	> cd psadmin
 	> npm install
-	> npm start
+	> gulp
 ```
 
 ####Not Familiar with Git?#####
@@ -20,5 +20,5 @@ Click [here](https://github.com/bim16/psadmin/tree/master) then download the .zi
 
 ```
 	> npm install
-	> npm start
+	> gulp
 ```
