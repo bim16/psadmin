@@ -9,7 +9,7 @@ There are two methods for getting started with this repo.
 Checkout this repo, install depdencies, then start the gulp process with the following:
 
 ```
-	> git clone git@github.com:bim16/psadmin.git
+	> git clone https://github.com/bim16/psadmin.git
 	> cd psadmin
 	> npm install
 	> gulp
